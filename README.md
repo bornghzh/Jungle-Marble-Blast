@@ -4,4 +4,4 @@ Jungle Marble Blast is a marble shoot game with the theme of Egyptian mythology.
 - Timer
 - 2 maps for play
 - Comboshots
-- etc...
+- etc
